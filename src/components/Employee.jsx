@@ -7,7 +7,7 @@ import { Hero } from "./Hero";
 
 export const Employee = () => {
   return (
-    <section className="pt-0 pb-10 relative min-h-screen">
+    <section className="pt-0 pb-10 relative min-h-[70vh]">
       <div className="">
         <button className="absolute top-[16%] left-[13%] w-36 h-52 rounded-full bg-yellow-400 overflow-hidden">
           <img className="" src={image1} alt="Couarge" />
